@@ -1,0 +1,57 @@
+firstname Anton
+lastname Klimovich
+age 29
+education
+unevercity BSU
+faculty historical
+major information management
+skills
+history
+national and international information standards
+document management
+electronic document management
+business analysis
+document archives
+work
+company Minsk Agency for State Registration and Land Cadastre
+term 2014-2022
+duties
+safekeeping of documents
+issuance of files from the archive
+acceptance of files in storage
+ensuring the activities of the archive
+communication with company departments
+Expected_salary 400$
+pets
+name zhuzha
+type dog
+age 3
+total amount 1
+name murka
+type cat
+age 7
+total amount 1
+name zhorik
+type bull
+age 1
+total amount 1
+name zhu-zhu
+type bee
+age 15
+total amount 47
+transport
+type bikeсycle
+model
+Stels
+Orlenok
+Java
+total amount 3
+type motorсycle
+model
+SYM
+Honda
+Minsk
+Kharcov
+total amount 4
+type automobile
+model
